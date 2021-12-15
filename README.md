@@ -1,4 +1,4 @@
 # Flutterapps
-flutter developed apps made by Reshul and developed by Reshul
+flutter developed apps made by Reshul
 Flutter
 
