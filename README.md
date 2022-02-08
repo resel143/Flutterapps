@@ -1,4 +1,4 @@
 # Flutterapp
-This repo contains flutter apps by Reshul
+This repo contains flutter apps by me
 
 
