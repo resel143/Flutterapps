@@ -1,4 +1,4 @@
 # Flutterapp
-This repo contains flutter app Reshul
+This repo contains flutter app
 
 
