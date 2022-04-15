@@ -1,4 +1,4 @@
 # Flutterapp
-This repo contains flutter app made by ef
+This repo contains flutter app made by res
 
 
