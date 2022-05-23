@@ -1,3 +1,2 @@
 # Flutterapp
-This repo contains flutter app made by resdd
-d
+This repo contains flutter app made by reshul
