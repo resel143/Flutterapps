@@ -1,2 +1,2 @@
 # Flutterappd
-This repo contains flutter app made by reshul dd
+This repo contains flutter app made by reshul
